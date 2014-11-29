@@ -1,0 +1,10 @@
+*xcuserdata*
+*.xcuserstate
+.DS_Store
+*out_ipa*
+*out_app*
+*build*
+*.xccheckout
+*Pods*
+Podfile.lock
+.gitattributes
